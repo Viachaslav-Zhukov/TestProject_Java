@@ -4,3 +4,5 @@
 [Задание №2](src/Task_2/FindDuplicateCharacter.java)
 
 [Задание №3](src/Task_3/BaseConverter.java)
+
+[Задание №4](src/Task_4/ClockAngleCalculator.java)
